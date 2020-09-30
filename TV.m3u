@@ -2,20 +2,20 @@
 
 #EXTINF:-1 tvg-id="00005" tvg-name="CANAL DW" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="NOTICIAS", CANAL DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="00006" tvg-name="RT EN ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="NOTICIAS", RT EN ESPAÑOL
+#EXTINF:-1 tvg-id="00006" tvg-name="RT ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="NOTICIAS", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="00008" tvg-name="CANAL 26" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="NOTICIAS", CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
-#EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV Mexico" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="NOTICIAS", QUIERO TV (MEX)
+#EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="NOTICIAS", Quiero TV
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-id="00010" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="NOTICIAS" ,TELESUR (VEN)
+#EXTINF:-1 tvg-id="00010" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="NOTICIAS", TeleSUR.TV
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="00011" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="NOTICIAS", HIPERTV
+#EXTINF:-1 tvg-id="00011" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="NOTICIAS", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="00012" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", FRANCE 24
+#EXTINF:-1 tvg-id="00012" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="00013" tvg-name="TV PUBLICA ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2019/07/tv-publica-twitter.jpg" group-title="VARIADOS", TV PUBLICA (ARG)
+#EXTINF:-1 tvg-id="00013" tvg-name="TV PUBLICA ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2019/07/tv-publica-twitter.jpg" group-title="VARIADOS", TV PUBLICA ARGENTINA
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00014" tvg-name="CANAL 2 JUJUY" tvg-logo="https://lh3.googleusercontent.com/-lNZ9Cc4kdY0/Xzgf6HFrZDI/AAAAAAAA4XI/I2DRdFu8uao3YAEAUhlLpLOVvco9P7B-wCK8BGAsYHg/s0/2020-08-15.png" group-title="VARIADOS", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
