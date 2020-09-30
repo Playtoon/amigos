@@ -15,7 +15,7 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00012" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="00013" tvg-name="TV PUBLICA ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2019/07/tv-publica-twitter.jpg" group-title="VARIADOS", TV PUBLICA ARGENTINA
+#EXTINF:-1 tvg-id="00013" tvg-name="TV Pública" tvg-logo="http://television.com.ar/wp-content/uploads/2019/07/tv-publica-twitter.jpg" group-title="VARIADOS", TV Pública
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00014" tvg-name="CANAL 2 JUJUY" tvg-logo="https://lh3.googleusercontent.com/-lNZ9Cc4kdY0/Xzgf6HFrZDI/AAAAAAAA4XI/I2DRdFu8uao3YAEAUhlLpLOVvco9P7B-wCK8BGAsYHg/s0/2020-08-15.png" group-title="VARIADOS", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
@@ -233,7 +233,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
 
 #EXTINF:-1 tvg-id="00120" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="RELIGIOSOS", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="00121" tvg-name="CANAL ORBE 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="RELIGIOSOS", CANAL ORBE 21
+#EXTINF:-1 tvg-id="00121" tvg-name="Canal Orbe 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="RELIGIOSOS", Canal Orbe 21
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
 #EXTINF:-1 tvg-id="00122" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="RELIGIOSOS", CBN USA
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
