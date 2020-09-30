@@ -1,21 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="NOTICIAS",[COLOR orange][B]                                     NOTICIAS[/COLOR][/B]
-http://?
-#EXTINF:-1 tvg-id="00001" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="NOTICIAS", TN
-
-#EXTINF:-1 tvg-id="00002" tvg-name="LN+" tvg-logo="http://television.com.ar/wp-content/uploads/2017/03/ln.jpg" group-title="NOTICIAS", LN+
-
-#EXTINF:-1 tvg-id="00003" tvg-name="C5N" tvg-logo="https://santaclaradelmar.com/wp-content/uploads/2019/09/5-c5n.jpg" group-title="NOTICIAS", C5N
-
-#EXTINF:-1 tvg-id="00004" tvg-name="CRONICA HD" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-1-1.png" group-title="NOTICIAS", CRONICA HD
-
 #EXTINF:-1 tvg-id="00005" tvg-name="DW ESPAÑOL" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="NOTICIAS", DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00006" tvg-name="RT EN ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="NOTICIAS", RT EN ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-id="00007" tvg-name="EURONEWS" tvg-logo="https://www.periodistadigital.com/wp-content/uploads/2018/07/euronews.jpg" group-title="NOTICIAS", EURONEWS
-
 #EXTINF:-1 tvg-id="00008" tvg-name="CANAL 26" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="NOTICIAS", CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV Mexico" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="NOTICIAS", QUIERO TV (MEX)
@@ -26,8 +14,6 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00012" tvg-name="France 24" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", FRANCE 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="          VARIADO          "
 
 #EXTINF:-1 tvg-id="00013" tvg-name="TV PUBLICA ARGENTINA" tvg-logo="http://television.com.ar/wp-content/uploads/2019/07/tv-publica-twitter.jpg" group-title="VARIADOS", TV PUBLICA (ARG)
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
@@ -124,8 +110,6 @@ https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 #EXTINF:-1 tvg-id="00059" tvg-name="WOW TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="VARIADOS", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 tvg-id="          INFANTILES         "
-
 #EXTINF:-1 tvg-id="00060" tvg-name="LOCOMOTION" tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="INFANTILES", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="00061" tvg-name="CACHIPUM TV" tvg-logo="http://cachipum.tv/img/logo.png" group-title="INFANTILES", CACHIPUM TV
@@ -147,10 +131,6 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00069" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="INFANTILES", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="          DEPORTIVOS          "
-
-#EXTINF:-1 tvg-id="00070" tvg-name="DEPORTV" tvg-logo=" http://deportv.gov.ar/img/logo-header.png " group-title="DEPORTIVOS", DEPORTV
-
 #EXTINF:-1 tvg-id="00071" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTIVOS", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00072" tvg-name="CDO (CHI)" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500" group-title="DEPORTIVOS",CDO (CHI)
@@ -164,20 +144,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="00076" tvg-name="MsMotor TV" tvg-logo="https://graph.facebook.com/msmotortv/picture?width=200&height=200" group-title="DEPORTIVOS", MSMOTORS TV (ITA)
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="          CULTURALES          "
-
-#EXTINF:-1 tvg-id="00077" tvg-name="ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/200px-Canal_encuentro_2020.png" group-title="CULTURALES", ENCUENTRO
-
 #EXTINF:-1 tvg-id="00078" tvg-name="TV UNIVERSIDAD" tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="CULTURALES", TV UNIVERSIDAD
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="00079" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="CULTURALES", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="00080" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="CULTURALES", CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="          MUSICALES          "
-
-#EXTINF:-1 tvg-id="00081" tvg-name="VORTERIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="MUSICALES", VORTERIX
 
 #EXTINF:-1 tvg-id="00082" tvg-name="88 STEREO" tvg-logo="https://pbs.twimg.com/profile_images/838809421975257092/Hzz3uqOH.jpg" group-title="MUSICALES", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
@@ -226,8 +198,6 @@ https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00000"tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png" group-title="MUSICALES", RU TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="          CINE Y SERIES          "
-
 #EXTINF:-1 tvg-id="00104" tvg-name="METRO TV TUCUMAN" tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png" group-title="CINE Y SERIES", METRO TV TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
 #EXTINF:-1 tvg-id="00105" tvg-name="Telered" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png" group-title="CINE Y SERIES", TELERED
@@ -261,8 +231,6 @@ https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00119" tvg-name="Zee Mundo USA" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="CINE Y SERIES" ,ZEE MUNDO USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
 
-#EXTINF:-1 tvg-id="          RELIGIOSOS          "
-
 #EXTINF:-1 tvg-id="00120" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="RELIGIOSOS", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="00121" tvg-name="CANAL ORBE 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="RELIGIOSOS", CANAL ORBE 21
@@ -276,64 +244,8 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="00125" tvg-name="  Televida HD " tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png" group-title="RELIGIOSOS", TELEVIDA HD 
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="          CAMPO          "
-
 #EXTINF:-1 tvg-id="00126" tvg-name="CHACRA TV" tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="CAMPO", CHACRA TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
 
-#EXTINF:-1 tvg-id="          VIAJES          "
-
 #EXTINF:-1 tvg-id="00127" tvg-name="Turistik TV Mexico" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" ,TURISTIK TV (MEX)
 https://5e50264bd6766.streamlock.net/turistikatv/videoturistikatv/playlist.m3u8?DVR
-
-
-
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-#EXTINF:-1 tvg-id="00000" tvg-name="" tvg-logo="" group-title="CATEGORIA", NOMBRE CANAL
-
-
-
-
-
