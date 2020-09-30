@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="00005" tvg-name="DW ESPAÑOL" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="NOTICIAS", DW ESPAÑOL
+#EXTINF:-1 tvg-id="00005" tvg-name="DW" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="NOTICIAS", DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00006" tvg-name="RT EN ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="NOTICIAS", RT EN ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
