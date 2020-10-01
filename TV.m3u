@@ -224,8 +224,10 @@ https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00117" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="CINE Y SERIES", RETRO PLUS MOVIES
 https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="00118" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="CINE Y SERIES", LA POPULAR TV
+#EXTINF:-1 tvg-id="00118" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="CINE Y SERIES", LA POPULAR TV HD
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="00118" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="CINE Y SERIES", LA POPULAR TV SD
+https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="00119" tvg-name="Zee Mundo USA" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="CINE Y SERIES" ,ZEE MUNDO USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
 
