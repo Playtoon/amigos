@@ -212,8 +212,6 @@ https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00110" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png" group-title="CINE Y SERIES", MI TV CLASICA
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="00111" tvg-name="Tele Mas" tvg-logo="https://lh3.googleusercontent.com/-oRoXxEpaRZI/Xx2FjB3C9RI/AAAAAAAA3b0/z0UFVUzwLI4WvZ3DMBvLGwyYCxYoCl3hgCK8BGAsYHg/s0/2020-07-26.png" group-title="CINE Y SERIES", TELE MAS
-https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00112" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
 #EXTINF:-1 tvg-id="00113" tvg-name="Rec Online" tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
