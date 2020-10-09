@@ -136,7 +136,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00072" tvg-name="CDO (CHI)" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500" group-title="DEPORTIVOS",CDO (CHI)
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="00073" tvg-name="CDO (CHI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/600px-CDO_Premium.png" group-title="DEPORTIVOS",CDO PREMIUM (CHI)
-https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="00074" tvg-name="REAL MADRID TV" tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg" group-title="DEPORTIVOS", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="00075" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="DEPORTIVOS", REDBULL TV (USA)
