@@ -119,7 +119,7 @@ https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-id="00063" tvg-name="Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="INFANTILES", PEQUERADIO TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="00064" tvg-name="ACS NETWORK" tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200" group-title="INFANTILES", ACS NETWORK
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-id="00065" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png" group-title="INFANTILES", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00066" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png" group-title="INFANTILES", CSTV
