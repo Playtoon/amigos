@@ -36,7 +36,7 @@ http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?Playlis
 #EXTINF:-1 tvg-id="00022" tvg-name="CPE TV" tvg-logo="https://lh3.googleusercontent.com/-9GTHHXgvOTw/X1TK1QfMEbI/AAAAAAAA5UE/4ulTcshU6Q8PZxoBzNKfDZvmIXleTCnwwCK8BGAsYHg/s0/2020-09-06.jpg" group-title="TV", CPE TV
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00023" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" group-title="TV", GEN TV
-http://inliveserver.com:1935/14030/14030/playlist.m3u8?PlaylistM3UCL
+http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
 #EXTINF:-1 tvg-id="00024" tvg-name="9LINK" tvg-logo="https://lh3.googleusercontent.com/-WMz7hrzKxR0/Xx4D9d8qm2I/AAAAAAAA3gs/EvkCEvSZ9FAmPtwA7Xx7j6KzsEvNndm3wCK8BGAsYHg/s0/2020-07-26.png" group-title="TV", 9LINK
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00025" tvg-name="13 MAX DIGITAL" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="TV", 13 MAX DIGITAL
@@ -65,8 +65,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 #EXTINF:-1 tvg-id="00037" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer.png" group-title="TV", CANAL 10 (G. ROCA)
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
-#EXTINF:-1 tvg-id="00038" tvg-name="TV UNIVERSIDAD" tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="TV", TV UNIVERSIDAD
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="00039" tvg-name="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="TV", CUATRO HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-id="00040" tvg-name="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="TV", TELECINCO HD
@@ -112,8 +110,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-id="00060" tvg-name="LOCOMOTION" tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-id="00061" tvg-name="CACHIPUM TV" tvg-logo="http://cachipum.tv/img/logo.png" group-title="TV", CACHIPUM TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00062" tvg-name="Boing" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="TV", BOING HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-id="00063" tvg-name="Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="TV", PEQUERADIO TV
@@ -249,7 +245,4 @@ https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00126" tvg-name="CHACRA TV" tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="TV", CHACRA TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
 
-#EXTINF:-1 tvg-id="00127" tvg-name="Turistik TV Mexico" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="TV" ,TURISTIK TV (MEX)
-https://5e50264bd6766.streamlock.net/turistikatv/videoturistikatv/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="https://www.themoviedb.org/movie/284052-doctor-strange?language=es" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAh03zjNzjhiQPrq4Dcr7qKDPlR.jpg" group-title="PELICULAS", Doctor Strange: Hechicero supremo (2016)
-https://onedrive.live.com/download.aspx?authkey=%21AKEB2UxMkELTJn0&cid=90DBF23B0A7787DC&resid=90DBF23B0A7787DC%2114366&parId=90DBF23B0A7787DC%2114110&o=OneUp
+
