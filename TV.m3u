@@ -61,10 +61,8 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="00035" tvg-name="CANAL 6 (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6 (MEX)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="00036" tvg-name="LAPACHO CANAL 11" tvg-logo="https://www.lapachotv.com.ar/wp-content/uploads/2018/04/marca_web_1.png" group-title="TV", LAPACHO CANAL 11
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 #EXTINF:-1 tvg-id="00037" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer.png" group-title="TV", CANAL 10 (G. ROCA)
-https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="00039" tvg-name="CUATRO HD" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="TV", CUATRO HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-id="00040" tvg-name="TELECINCO HD" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="TV", TELECINCO HD
