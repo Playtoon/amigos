@@ -164,7 +164,7 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="00090" tvg-name="MUSIC TOP" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png" group-title="TV", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00091" tvg-name="RETRO PLUS MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="00092" tvg-name="TELERITMO" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="TV", TELERITMO 
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1 tvg-id="00093" tvg-name="Top Latino TV Perú" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200" group-title="TV" ,TOP LATINO TV (PER)
@@ -217,7 +217,7 @@ https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00116" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="TV", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00117" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MOVIES
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="00118" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="TV", LA POPULAR TV HD
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="00118" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="TV", LA POPULAR TV SD
