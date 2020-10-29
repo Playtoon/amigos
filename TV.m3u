@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DeutscheWelle.ar" tvg-name="Deutsche Welle" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="TV", Deutsche Welle
+#EXTINF:-1 tvg-id="DW Español" tvg-name="DW Español" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="TV", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="00006" tvg-name="RT ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="TV", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
@@ -8,7 +8,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="TV", Quiero TV
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-id="00010" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="TV", TeleSUR.TV
+#EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-id="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="TV", TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="00011" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="TV", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
