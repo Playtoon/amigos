@@ -4,7 +4,7 @@
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="00006" tvg-name="RT ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="TV", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-id="https://www.diario26.com/" tvg-name="Canal 26" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="TV", Canal 26
+#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="TV", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="TV", Quiero TV
 https://quierotvlive.tk/httplive/playlist.m3u8
