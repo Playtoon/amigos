@@ -8,7 +8,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="00009" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="TV", Quiero TV
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ar" tvg-name="Telesur" tvg-id="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="TV", Telesur
+#EXTINF:-1 tvg-id="Telesur.ar" tvg-name="Telesur" tvg-id="https://www.telesurtv.net/export/sites/telesur/arte/Logo_Telesur_2017_Alpha.png_1295974415.png" group-title="TV", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="00011" tvg-name="HiperTV" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="TV", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
