@@ -261,7 +261,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
 https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="REAL MADRID TV" tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg" group-title="TV", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="TV", REDBULL TV (USA)
+#EXTINF:-1 tvg-id="Deportes" tvg-name="Redbull TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="TV", REDBULL TV (USA)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="MsMotor TV" tvg-logo="https://graph.facebook.com/msmotortv/picture?width=200&height=200" group-title="TV", MSMOTORS TV (ITA)
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8
