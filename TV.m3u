@@ -419,9 +419,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="Canal Orbe 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="TV", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="TV", CBN USA
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="CBN Español" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="TV", CBN Español
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="EWTN USA" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="TV", EWTN USA
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="EWTN" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="TV", EWTN
 https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="María Visión Mexico" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="TV", MARIA VISION (MEX)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
