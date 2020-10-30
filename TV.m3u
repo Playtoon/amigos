@@ -324,7 +324,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 #EXTINF:-1 tvg-id="Música" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="TV", Canal 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png" group-title="TV", RETRO MUSIC TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Photo-1467302546.jpg/revision/latest?cb=20160630160226" group-title="TV", U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png" group-title="TV", POWER HD
@@ -382,8 +382,6 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-DiXsxeG-J7o/Xtvh7WdzH1I/AAAAAAAA1gs/DKW25Vh-p8AZ34jMpCCli_xGVIbdoCHyACK8BGAsYHg/s0/2020-06-06.png" group-title="TV", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://lh3.googleusercontent.com/-mjJt1WWiSFQ/XwJfb0lRkzI/AAAAAAAA2ig/SWfzwkQpuCESAICtrOJDmJHVz7dEci6vwCK8BGAsYHg/s0/2020-07-05.png" group-title="TV", EX TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Tele Mas" tvg-logo="https://lh3.googleusercontent.com/-oRoXxEpaRZI/Xx2FjB3C9RI/AAAAAAAA3b0/z0UFVUzwLI4WvZ3DMBvLGwyYCxYoCl3hgCK8BGAsYHg/s0/2020-07-26.png" group-title="TV", TELE MAS
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="TVMas Chile" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="TV", TVMAS CHILE
@@ -407,11 +405,13 @@ https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="TV", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MOVIES
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo USA" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="TV" ,ZEE MUNDO USA
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="TV" ,Flixtube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://lh3.googleusercontent.com/-mjJt1WWiSFQ/XwJfb0lRkzI/AAAAAAAA2ig/SWfzwkQpuCESAICtrOJDmJHVz7dEci6vwCK8BGAsYHg/s0/2020-07-05.png" group-title="TV", EX TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="TV", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
