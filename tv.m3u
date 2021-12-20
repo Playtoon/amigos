@@ -21,7 +21,7 @@ https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Noticias", Canal 26 | AR
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Noticias", A24 | AR
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/1b1571c3-3c05-414c-ad44-4d75708bb786:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
+https://el4live1.boldmss.com/AM24/AM24.isml/AM24.mpd
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Noticias", C5N | AR
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Noticias", IP | AR
@@ -94,7 +94,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0161
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Variado", America TV | AR
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/1a1a68da-4a48-42a6-a54c-23633546f104:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+https://raw.githubusercontent.com/Playtoon/4/main/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
@@ -714,6 +714,8 @@ https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="Infantiles", Kid 90 | CL
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
@@ -724,8 +726,10 @@ https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/766-7663817_dream-logos-wiki-boomerang-from-cartoon-network-hd.png" group-title="Infantiles", Boomerang
+http://140.82.23.166:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
-https://live.admefy.com/live/clean_peach_ef224.m3u8
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantiles", PlanetaTV Kids | CL
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
@@ -927,8 +931,8 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2Z9ZnN.png" group-title="Cine y Series", Las Estrellas | MX
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399797348
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGfc2uk.png" group-title="Cine y Series", Cinema + | MX
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220487
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV | AR
@@ -953,6 +957,10 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="Cine y Series", Telesistema | CR
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png" group-title="Cine y Series", Visiónplus TV | CL
+http://v2.tustreaming.cl/visionplustv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c4059d4b2eb7b24f7208a93b05312995.png" group-title="Cine y Series", EGM Channel | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oTjKAa.png" group-title="Cine y Series", TVMas | CL
@@ -970,21 +978,21 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV | US
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV 2 | US
-https://stream.ads.ottera.tv/cl/2b54bba2-8f52-461b-8da2-08d5ce563d5b/1280x720_1400000_3_false.m3u8
+https://stream.ads.ottera.tv/cl/42c3b27e-9988-444c-92dd-72f87887a7ea/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="Cine y Series", Canela Clásicos | US
-https://stream.ads.ottera.tv/cl/fe27f929-528a-43e5-bd92-7f4b2269989d/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/54fe3f6e-c16d-4f1d-a6b2-46ae3391c8f8/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="Cine y Series", Acción Mexicana | US
-https://stream.ads.ottera.tv/cl/7334ea59-454c-4483-b3d8-3d9fa5c89ad9/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/22a7bff5-59e4-4ead-9c8f-4ba6a906c622/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="Cine y Series", Canela Telenovelas | US
-https://stream.ads.ottera.tv/cl/2b74d4f1-b37e-4aa3-997e-c180d2c2ab39/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/6a15d298-680b-4fd4-93b8-9afcae365668/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-tierra-16x9.jpg" group-title="Cine y Series", Tierra de Amor y Venganza | US
-https://stream.ads.ottera.tv/cl/c6f77ee7-73e7-4ca2-8d56-a1f8eab82955/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/7a797793-37b0-43d0-8374-7687d39a6d12/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-talisman-16x9_2.jpg" group-title="Cine y Series", El Talismán | US
-https://stream.ads.ottera.tv/cl/64bdad70-ff10-478e-a94a-aabfd6cd6d04/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/6bdb5c6e-7cc4-4b3f-9fe5-fdc0147be20d/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" group-title="Cine y Series", Canela Cinema | US
-https://stream.ads.ottera.tv/cl/6b7d6714-12fc-4531-97fe-6347085ff80c/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/a299a1a7-334d-412d-8733-143543ff3f16/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="Cine y Series", Cine Romántico | US
-https://stream.ads.ottera.tv/cl/45bdb446-795b-4607-83af-a2faff01b9e4/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/2fbf4e0a-cd1e-4866-9f9a-90051edadb0f/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
@@ -1028,7 +1036,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV | AR
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPSCPkI.jpg" group-title="Cine y Series", Lim TV | PY
-http://tv.limpy.online:8080/livestream/limtv.m3u8
+https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNVF58v.png" group-title="Cine y Series", Somos del Este | PY
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="Cine y Series", Cablemás TV | PY
